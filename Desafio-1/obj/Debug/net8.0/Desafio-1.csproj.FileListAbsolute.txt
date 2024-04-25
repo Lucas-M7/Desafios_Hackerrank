@@ -12,3 +12,4 @@ C:\Users\Lucas\Downloads\desafiosHackerrank\Desafio-1\obj\Debug\net8.0\refint\De
 C:\Users\Lucas\Downloads\desafiosHackerrank\Desafio-1\obj\Debug\net8.0\Desafio-1.pdb
 C:\Users\Lucas\Downloads\desafiosHackerrank\Desafio-1\obj\Debug\net8.0\Desafio-1.genruntimeconfig.cache
 C:\Users\Lucas\Downloads\desafiosHackerrank\Desafio-1\obj\Debug\net8.0\ref\Desafio-1.dll
+C:\Users\Lucas\Downloads\desafiosHackerrank\Desafio-1\obj\Debug\net8.0\Desafio-1.sourcelink.json
