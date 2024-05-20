@@ -1,0 +1,15 @@
+C:\Users\Lucas\Downloads\Desafios\desafiosHackerrank\Desafio-7\bin\Debug\net8.0\Desafio-7.exe
+C:\Users\Lucas\Downloads\Desafios\desafiosHackerrank\Desafio-7\bin\Debug\net8.0\Desafio-7.deps.json
+C:\Users\Lucas\Downloads\Desafios\desafiosHackerrank\Desafio-7\bin\Debug\net8.0\Desafio-7.runtimeconfig.json
+C:\Users\Lucas\Downloads\Desafios\desafiosHackerrank\Desafio-7\bin\Debug\net8.0\Desafio-7.dll
+C:\Users\Lucas\Downloads\Desafios\desafiosHackerrank\Desafio-7\bin\Debug\net8.0\Desafio-7.pdb
+C:\Users\Lucas\Downloads\Desafios\desafiosHackerrank\Desafio-7\obj\Debug\net8.0\Desafio-7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\Desafios\desafiosHackerrank\Desafio-7\obj\Debug\net8.0\Desafio-7.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\Desafios\desafiosHackerrank\Desafio-7\obj\Debug\net8.0\Desafio-7.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\Desafios\desafiosHackerrank\Desafio-7\obj\Debug\net8.0\Desafio-7.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\Desafios\desafiosHackerrank\Desafio-7\obj\Debug\net8.0\Desafio-7.sourcelink.json
+C:\Users\Lucas\Downloads\Desafios\desafiosHackerrank\Desafio-7\obj\Debug\net8.0\Desafio-7.dll
+C:\Users\Lucas\Downloads\Desafios\desafiosHackerrank\Desafio-7\obj\Debug\net8.0\refint\Desafio-7.dll
+C:\Users\Lucas\Downloads\Desafios\desafiosHackerrank\Desafio-7\obj\Debug\net8.0\Desafio-7.pdb
+C:\Users\Lucas\Downloads\Desafios\desafiosHackerrank\Desafio-7\obj\Debug\net8.0\Desafio-7.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\Desafios\desafiosHackerrank\Desafio-7\obj\Debug\net8.0\ref\Desafio-7.dll
